@@ -1,0 +1,6 @@
+Group: AI-xyz
+
+Group members:
+1. 819494  - | Xiaorong Yang  - | xiaorongy@student.unimelb.edu.au 
+2. 951595  - | Yanzi Wang     - | yanziw@student.unimelb.edu.au
+3. 1092152 - | Zhichao Qiu    - | zhichaoq1@student.unimelb.edu.au
